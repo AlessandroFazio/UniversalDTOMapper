@@ -1,2 +1,1 @@
-# java-multithreading
-# UniversalDTOMapper
+UniversalDTOMapper for mapping sourceObj (Database Entity) to DTO obj using Java Reflection API, recursively mapping inner entities into their dto counterparts recognized at runtime through custom annotations.
